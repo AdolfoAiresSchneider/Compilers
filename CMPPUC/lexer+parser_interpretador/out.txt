@@ -1,0 +1,14 @@
+NUM 66
+OP_AR +
+OP_AR +
+OP_AR +
+OP_AR +
+NUM 9
+OP_AR -
+OP_AR *
+OP_AR *
+NUM -10
+OP_AR +
+NUM 8
+OP_AR -
+NUM 977

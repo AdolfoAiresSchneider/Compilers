@@ -1,0 +1,5 @@
+ESCREVA(10/3);
+ESCREVA(10.1/20);
+LEIA(x);
+y = (2^x) * 65 + 3*(2^(3*x));
+ESCREVA((x+y)%999);
